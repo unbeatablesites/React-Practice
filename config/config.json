@@ -1,0 +1,5 @@
+{
+	"db": {
+		"uri": "mongodb://fuzoka:w123456@ds211143.mlab.com:11143/week18",
+	}
+}

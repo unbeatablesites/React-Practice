@@ -1,1 +1,1 @@
-# Mongo-DB-News-Scraper
+# Newscraper
