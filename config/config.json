@@ -1,6 +1,6 @@
 {
 	"db": {
-		"uri": "mongodb://fuzoka:w123456@ds211143.mlab.com:11143/week18",
-		"MONGODB_URI": "mongodb://week18:ndopukj9sndtrfip4rd5unp24n@ds211143.mlab.com:11143/week18"
+		"uri": "mongodb://heroku_lf1t9l05:l1kahb4936htu1k0fth0scstft@ds211143.mlab.com:11143/heroku_lf1t9l05",
+		"MONGODB_URI": "heroku_lf1t9l05:l1kahb4936htu1k0fth0scstft@ds211143.mlab.com:11143/heroku_lf1t9l05"
 	}
 }
