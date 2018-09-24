@@ -1,4 +1,4 @@
-# Game of Strings
+# Game of Strings solved
 
 In this activity we will convert a JavaScript file to utilize the ES6 we've learned so far.
 
