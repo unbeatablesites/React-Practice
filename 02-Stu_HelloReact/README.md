@@ -1,4 +1,4 @@
-# Hello React
+# Hello React solved
 
 In this activity, we will dissect a simple React application.
 
