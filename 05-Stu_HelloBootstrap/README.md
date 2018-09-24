@@ -1,4 +1,4 @@
-# Hello Bootstrap
+# Hello Bootstrap solved
 
 In this activity, we will utilize Bootstrap CSS and render components utilizing Bootstrap classes.
 
