@@ -1,4 +1,4 @@
-# Redo Warmup
+# Redo Warmup solved
 
 In this activity we will convert a JavaScript file using `var` to use `const` and `let` instead.
 
