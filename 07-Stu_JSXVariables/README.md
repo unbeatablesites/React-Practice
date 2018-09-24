@@ -1,5 +1,5 @@
 
-## Instructions
+## Instructions solved
 
 * Replace your React application's `src` folder with [Unsolved/src](Unsolved/src). Stop the dev server if it is already running. Start the app in dev mode by running `yarn start`.
 
