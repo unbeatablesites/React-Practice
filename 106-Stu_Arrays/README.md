@@ -1,4 +1,4 @@
-# Arrays
+# Arrays solved
 
 In this activity we will replace imperative for-loops with functional implementations.
 
