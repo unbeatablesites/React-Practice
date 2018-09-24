@@ -1,4 +1,4 @@
-# Arrow Arrays
+# Arrow Arrays solved
 
 In this activity we will update the previous arrays example to utilize arrow functions.
 
