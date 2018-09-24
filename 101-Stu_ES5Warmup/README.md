@@ -1,4 +1,4 @@
-# ES5 Warmup
+# ES5 Warmup solved
 
 In this activity we will examine a JavaScript file and determine the values printed by each log function.
 
