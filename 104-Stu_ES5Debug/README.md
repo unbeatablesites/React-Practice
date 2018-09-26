@@ -1,4 +1,4 @@
-# ES5 Debug
+# ES5 Debug solved
 
 In this activity we will fix a bug in a small JavaScript project using ES5 by using `const` and `let` instead of `var`.
 

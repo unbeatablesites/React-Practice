@@ -1,4 +1,4 @@
-# Obj Destruct
+# Obj Destruct solved
 
 In this activity we will update a JavaScript file to utilize object destructuring.
 

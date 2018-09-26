@@ -1,4 +1,4 @@
-# Style Prop
+# Style Prop solved
 
 In this activity we will explore some built-in options for styling React components.
 
