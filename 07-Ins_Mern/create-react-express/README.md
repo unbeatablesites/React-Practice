@@ -12,7 +12,7 @@ Start by installing front and backend dependencies. While in this directory, run
 
 ```
 yarn install
-``
+```
 
 This should install node modules within the server and the client folder.
 
