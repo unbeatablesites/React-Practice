@@ -21,7 +21,7 @@ In this activity, we will begin by installing a few helpful packages and then ex
 3. What is a React component? Hint: Check the "Components and Props" section of the React documentation.
 
 4. What is the significance of the `ReactDOM.render` method? Hint: Check the "ReactDOM" section of the documentation.
-
+plenty of react
 5. What is JSX? Why does Facebook recommend using it? Hint: Check the "Introducing JSX" section of the documentation.
 
 6. What does Facebook recommend as the “best way to start building a new React single page application”? Hint: Check the "Installation" section of the React documentation.
