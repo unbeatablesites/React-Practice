@@ -4,7 +4,7 @@
 
 //Create a react component
 
-const App = function(){
+const App = ()=> {
     return <div>Hi there!!</div>
 };
 
